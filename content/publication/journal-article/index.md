@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "A Multi-Agent Model of Misspecified Learning with Overconfidence"
 authors:
 - admin
 - Alice Gindin
