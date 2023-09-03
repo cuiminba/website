@@ -84,7 +84,7 @@ Welcome! I am an Assistant Professor of Economics at the University of Pittsburg
 
 I received my Ph.D. in economics from the University of Pennsylvania. 
 
-I am honored to have been selected for the Find my CV [REStud Tour 2023](https://sites.google.com/view/restudtour2023/home).
+I am honored to have been selected for the [REStud Tour 2023](https://sites.google.com/view/restudtour2023/home).
 
 My research interests are in microeconomic theory with a focus on learning, information, behavioral economics, and dynamic games.
 
