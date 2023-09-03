@@ -26,6 +26,20 @@ sections:
       columns: '2'
       view: compact
   - block: collection
+    content:
+      title: Working Papers
+      # text: |-
+      #  {{% callout note %}}
+      #  Quickly discover relevant content by [filtering publications](./publication/).
+      #  {{% /callout %}}
+      filters:
+        folders:
+          - working-papers
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: compact
+  - block: collection
     id: talks
     content:
       title: Recent & Upcoming Talks
