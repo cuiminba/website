@@ -84,4 +84,14 @@ Welcome! I am an Assistant Professor of Economics at the University of Pittsburg
 
 I received my Ph.D. in economics from the University of Pennsylvania. 
 
+I am honored to have been selected for the Find my CV [REStud Tour 2023](https://sites.google.com/view/restudtour2023/home).
+
+My research interests are in microeconomic theory with a focus on learning, information, behavioral economics, and dynamic games.
+
+An overview of my research can be found Find my CV {{< staticref "media/Research Statement_Cuimin Ba.pdf" "newtab" >}}here{{< /staticref >}}.
+
+Email: cub8 (at) pitt (dot) edu
+
+How to pronounce my name: [here](https://translate.google.com/?sl=auto&tl=zh-CN&text=%E8%90%83%E6%95%8F&op=translate)
+
 {style="text-align: justify;"}
