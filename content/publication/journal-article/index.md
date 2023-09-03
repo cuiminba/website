@@ -34,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'static/uploads/Overconfidence.pdf'
+url_pdf: 'uploads/Overconfidence.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -45,10 +45,10 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-<!--image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+image:
+  caption: ''
   focal_point: ""
-  preview_only: false-->
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
