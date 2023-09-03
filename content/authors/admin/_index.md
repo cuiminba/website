@@ -88,7 +88,7 @@ I am honored to have been selected for the [REStud Tour 2023](https://sites.goog
 
 My research interests are in microeconomic theory with a focus on learning, information, behavioral economics, and dynamic games.
 
-An overview of my research can be found Find my CV {{< staticref "media/Research Statement_Cuimin Ba.pdf" "newtab" >}}here{{< /staticref >}}.
+An overview of my research can be found Find my CV {{< staticref "static/uploads/Research Statement_Cuimin Ba.pdf" "newtab" >}}here{{< /staticref >}}.
 
 Email: cub8 (at) pitt (dot) edu
 
