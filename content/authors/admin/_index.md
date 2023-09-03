@@ -90,7 +90,7 @@ My research interests are in microeconomic theory with a focus on learning, info
 
 ---
 
-An overview of my research can be found {{< staticref "static/uploads/Research Statement_Cuimin Ba.pdf" "newtab" >}}here{{< /staticref >}}.
+Find my CV here {{< staticref "static/uploads/CV_Cuimin Ba.pdf" "newtab">}}here{{</staticref>}}.
 
 Email: cub8 (at) pitt (dot) edu
 
