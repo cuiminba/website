@@ -1,5 +1,5 @@
 ---
-title: "A Multi-Agent Model of Misspecified Learning with Overconfidence, *Games and Economic Behavior", Vol. 142, Pages 315-338, 2023"
+title: "A Multi-Agent Model of Misspecified Learning with Overconfidence, *Games and Economic Behavior*, Vol. 142, Pages 315-338, 2023"
 authors:
 - admin
 - Alice Gindin
