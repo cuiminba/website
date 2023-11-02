@@ -94,6 +94,6 @@ Find my CV {{< staticref "uploads/CV_Cuimin Ba.pdf" "newtab">}}here.
 
 Email: cub8 (at) pitt (dot) edu
 
-How to pronounce my name: [here](https://translate.google.com/?sl=auto&tl=zh-CN&text=%E8%90%83%E6%95%8F&op=translate)
+How to pronounce my [name](https://translate.google.com/?sl=auto&tl=zh-CN&text=%E8%90%83%E6%95%8F&op=translate)
 
 {style="text-align: justify;"}
