@@ -80,7 +80,9 @@ email: ''
 highlight_name: true
 ---
 
-Welcome! I am an Assistant Professor of Economics at the University of Pittsburgh.
+Welcome! 
+
+I am an Assistant Professor of Economics at the University of Pittsburgh.
 
 I received my Ph.D. in economics from the University of Pennsylvania. 
 
