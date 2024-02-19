@@ -26,7 +26,7 @@ abstract: "Social media influencers often endorse products under brand sponsorsh
 summary: "Social media influencers often endorse products under brand sponsorships without disclosing the nature of their relationship with the brand. This paper explores the incentives for truth-telling when influencers face private sponsorship opportunities and the potential consequences for consumers. While reputation concerns can encourage influencers to be truthful when promoting sponsored products, they may also lead to under-endorsement when no sponsorship opportunity exists. As sponsorship opportunities become more abundant, the quality of information transmission initially decreases before increasing. Therefore, new technologies that efficiently match influencers with sponsors may improve consumer welfare. The Federal Trade Commission's mandatory disclosure rules are also shown to benefit consumers without necessarily harming influencers."
 
 tags:
-- Source Themes
+- working papers
 featured: false
 
 links:
