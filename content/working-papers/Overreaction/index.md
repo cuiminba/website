@@ -28,7 +28,7 @@ abstract: "This paper explores how properties of the learning environment determ
 summary: "This paper explores how properties of the learning environment determine how people react to information. We develop a two-stage model of belief formation where people first reduce complexity by channeling attention to a subset of states that are representative of the observed information, then evaluate this information using Bayes' rule subject to cognitive imprecision. The model predicts overreaction when environments are complex, signals are noisy, or priors are concentrated on intermediate states; it predicts underreaction when environments are simple, signals are precise, or priors concentrated on more extreme states. Results from a series of pre-registered experiments provide direct support for these predictions, as well as the proposed attentional mechanism. We show that the two-stage model is highly complete in capturing explainable variation in belief-updating; in particular, the interaction between the two psychological mechanisms is critical to explaining belief-formation in more complex settings. These results connect disparate findings in prior work: underreaction is typically found in laboratory studies, which feature simple learning settings, while overreaction is prevalent in financial markets, which feature more complex environments."
 
 tags:
-- Source Themes
+- working papers
 featured: false
 
 links:
