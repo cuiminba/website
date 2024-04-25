@@ -90,7 +90,7 @@ My research interests are in microeconomic theory with a focus on learning, info
 
 ---
 
-Find my CV {{< staticref "uploads/CV_Cuimin Ba.pdf" "newtab">}}here.{{</staticref>}}
+Here is my {{< staticref "uploads/CV_Cuimin Ba.pdf" "newtab">}}CV{{</staticref>}}.
 
 Email: bacuimin (at) gmail (dot) com
 
