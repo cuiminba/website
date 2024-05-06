@@ -92,7 +92,7 @@ I am honored to be an invited speaker at the [Review of Economic Studies Europea
 
 ---
 
-{{< staticref "uploads/CV_Cuimin Ba.pdf" "newtab">}}CV{{</staticref>}}
+Here is my {{< staticref "uploads/CV_Cuimin Ba.pdf" "newtab">}}CV{{</staticref>}}
 
 Email: bacuimin (at) gmail (dot) com
 
