@@ -88,6 +88,8 @@ I received my Ph.D. in economics from the University of Pennsylvania.
 
 My research interests are in microeconomic theory with a focus on learning, information, behavioral economics, and dynamic games.
 
+I am honored to be an invited speaker at the [Review of Economic Studies European Tour](https://www.restud.com/past-restud-tour-speakers/), 2023.
+
 ---
 
 Here is my {{< staticref "uploads/CV_Cuimin Ba.pdf" "newtab">}}CV{{</staticref>}}.
