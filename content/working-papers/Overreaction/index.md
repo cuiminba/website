@@ -19,8 +19,8 @@ weight: 20
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "Working Paper"
+publication_short: "Working Paper"
 
 abstract: "Revise & resubmit at the *Quarterly Journal of Economics* <br>  
 
