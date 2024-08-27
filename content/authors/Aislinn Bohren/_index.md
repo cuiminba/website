@@ -1,3 +1,3 @@
 superuser: false
 
-external_link: https://example.org/
+external_link: https://www.aislinnbohren.com/
