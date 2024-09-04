@@ -20,12 +20,12 @@ publication_types: ["2"]
 publication: ""
 publication_short: ""
 
-abstract: "Revise & resubmit at the *American Economic Review* <br>  
+abstract: "Revise & resubmit at the ***American Economic Review*** <br>  
 
 This paper studies which misspecified models are likely to persist when decision-makers compare them with competing models. The main result provides a characterization of such models based on two features that are straightforward to derive from the primitives: the model's asymptotic accuracy in predicting the equilibrium pattern of observed outcomes and the tightness of the prior around such equilibria. Misspecified models can be robust, persisting against a wide range of competing models---including the correct model---despite individuals observing an infinite amount of data. Moreover, simple misspecified models equipped with entrenched priors can be more robust than complex correctly specified models."
 
 # Summary. An optional shortened abstract.
-summary: "Revise & resubmit at the *American Economic Review* <br>  
+summary: "Revise & resubmit at the ***American Economic Review*** <br>  
 
 This paper studies which misspecified models are likely to persist when decision-makers compare them with competing models. The main result provides a characterization of such models based on two features that are straightforward to derive from the primitives: the model's asymptotic accuracy in predicting the equilibrium pattern of observed outcomes and the tightness of the prior around such equilibria. Misspecified models can be robust, persisting against a wide range of competing models---including the correct model---despite individuals observing an infinite amount of data. Moreover, simple misspecified models equipped with entrenched priors can be more robust than complex correctly specified models."
 
