@@ -1,5 +1,5 @@
 ---
-title: "A Reputational Theory of Influencer Marketing"
+title: "Reputational Communication and Private Sponsorships"
 authors:
 - admin
 date: "2023-02-01T00:00:00Z"
@@ -20,10 +20,10 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: "Social media influencers often endorse products under brand sponsorships without disclosing the nature of their relationship with the brand. This paper explores the incentives for truth-telling when influencers face private sponsorship opportunities and the potential consequences for consumers. While reputation concerns can encourage influencers to be truthful when promoting sponsored products, they may also lead to under-endorsement when no sponsorship opportunity exists. As sponsorship opportunities become more abundant, the quality of information transmission initially decreases before increasing. Therefore, new technologies that efficiently match influencers with sponsors may improve consumer welfare. The Federal Trade Commission's mandatory disclosure rules are also shown to benefit consumers without necessarily harming influencers."
+abstract: "This paper develops a model of reputational communication in environments where an agent may receive private benefits for endorsing certain alternatives. These private sponsorships are not observable to consumers, creating incentives to distort communication. While reputational concerns can encourage the agent to endorse honestly when sponsored, they also lead to strategic under-endorsement when no sponsorship is present. In particular, the agent may withhold favorable information to avoid being mistaken for strategic types who over-endorse. As sponsorship opportunities become more frequent, the credibility of endorsements initially decreases and then increases, which may ultimately enhance consumer welfare. Finally, mandatory sponsorship disclosure policies improve consumer welfare as well. This framework applies broadly to settings such as marketing, expert advice, and policy endorsements."
 
 # Summary. An optional shortened abstract.
-summary: "Social media influencers often endorse products under brand sponsorships without disclosing the nature of their relationship with the brand. This paper explores the incentives for truth-telling when influencers face private sponsorship opportunities and the potential consequences for consumers. While reputation concerns can encourage influencers to be truthful when promoting sponsored products, they may also lead to under-endorsement when no sponsorship opportunity exists. As sponsorship opportunities become more abundant, the quality of information transmission initially decreases before increasing. Therefore, new technologies that efficiently match influencers with sponsors may improve consumer welfare. The Federal Trade Commission's mandatory disclosure rules are also shown to benefit consumers without necessarily harming influencers."
+summary: "This paper develops a model of reputational communication in environments where an agent may receive private benefits for endorsing certain alternatives. These private sponsorships are not observable to consumers, creating incentives to distort communication. While reputational concerns can encourage the agent to endorse honestly when sponsored, they also lead to strategic under-endorsement when no sponsorship is present. In particular, the agent may withhold favorable information to avoid being mistaken for strategic types who over-endorse. As sponsorship opportunities become more frequent, the credibility of endorsements initially decreases and then increases, which may ultimately enhance consumer welfare. Finally, mandatory sponsorship disclosure policies improve consumer welfare as well. This framework applies broadly to settings such as marketing, expert advice, and policy endorsements."
 
 tags:
 - working papers
