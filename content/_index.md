@@ -40,5 +40,19 @@ sections:
     design:
       columns: '2'
       view: compact
+    - block: collection
+    content:
+      title: Working in Progress
+      # text: |-
+      #  {{% callout note %}}
+      #  Quickly discover relevant content by [filtering publications](./publication/).
+      #  {{% /callout %}}
+      filters:
+        folders:
+          - work-in-progress
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: compact
  
 ---
