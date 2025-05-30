@@ -40,7 +40,7 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: 'uploads/Complexities.pdf'
-url_appendix: `uploads/Complexities_Appendix.pdf'
+url_appendix: 'uploads/Complexities_Appendix.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
