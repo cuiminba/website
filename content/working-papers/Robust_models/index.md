@@ -40,8 +40,6 @@ url_pdf: uploads/Robust_models.pdf
 links:
   - name: online appendix
     url: uploads/Online_Appendix_Robust_Misspecified_Models.pdf
-    icon_pack: fas
-    icon: file-pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
