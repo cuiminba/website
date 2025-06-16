@@ -1,8 +1,8 @@
 ---
-title: " Robust Misspecified Models and Paradigm Shift"
+title: " Robust Misspecified Models"
 authors:
 - admin
-date: "2024-02-15T00:00:00Z"
+date: "2025-06-15T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -22,12 +22,12 @@ publication_short: ""
 
 abstract: "Revise & resubmit at the ***American Economic Review*** <br>  
 
-This paper studies which misspecified models are likely to persist when decision-makers compare them with competing models. The main result provides a characterization of such models based on two features that are straightforward to derive from the primitives: the model's asymptotic accuracy in predicting the equilibrium pattern of observed outcomes and the tightness of the prior around such equilibria. Misspecified models can be robust, persisting against a wide range of competing models---including the correct model---despite individuals observing an infinite amount of data. Moreover, simple misspecified models equipped with entrenched priors can be more robust than complex correctly specified models."
+This paper studies which misspecified models are likely to persist when decision-makers compare them with competing models. The main result characterizes such models based on two features that can be derived from primitives: the model's asymptotic accuracy in predicting the equilibrium distribution of observed outcomes and the “tightness” of the prior around such equilibria. Misspecified models can be robust, persisting against any arbitrary competing model---including the true model---despite decision-makers observing an infinite amount of data. Moreover, simple misspecified models equipped with entrenched priors can be more robust than complex correctly specified models."
 
 # Summary. An optional shortened abstract.
 summary: "Revise & resubmit at the ***American Economic Review*** <br>  
 
-This paper studies which misspecified models are likely to persist when decision-makers compare them with competing models. The main result provides a characterization of such models based on two features that are straightforward to derive from the primitives: the model's asymptotic accuracy in predicting the equilibrium pattern of observed outcomes and the tightness of the prior around such equilibria. Misspecified models can be robust, persisting against a wide range of competing models---including the correct model---despite individuals observing an infinite amount of data. Moreover, simple misspecified models equipped with entrenched priors can be more robust than complex correctly specified models."
+This paper studies which misspecified models are likely to persist when decision-makers compare them with competing models. The main result characterizes such models based on two features that can be derived from primitives: the model's asymptotic accuracy in predicting the equilibrium distribution of observed outcomes and the “tightness” of the prior around such equilibria. Misspecified models can be robust, persisting against any arbitrary competing model---including the true model---despite decision-makers observing an infinite amount of data. Moreover, simple misspecified models equipped with entrenched priors can be more robust than complex correctly specified models."
 
 tags:
 - working papers
