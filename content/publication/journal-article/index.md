@@ -38,7 +38,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'uploads/Overconfidence.pdf'
+- name: "Publication"
+  url: 'uploads/Overconfidence.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
