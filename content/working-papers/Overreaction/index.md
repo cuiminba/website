@@ -35,7 +35,7 @@ tags:
 - working papers
 featured: false
 
-links:
+
 # - name: Custom Link
 #  url: http://example.org
 links:
