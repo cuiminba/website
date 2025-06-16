@@ -36,12 +36,12 @@ tags:
 - Publications
 featured: false
 
- links:
- - name: publication
-   url: uploads/Complexities.pdf
- - name: online appendix
-   url: uploads/Complexities_Appendix.pdf
 
+links:
+  - name: publication
+    url: uploads/Complexities.pdf
+  - name: online appendix
+    url: uploads/Complexities_Appendix.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
