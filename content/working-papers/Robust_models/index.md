@@ -33,7 +33,7 @@ tags:
 - working papers
 featured: false
 
-links:
+
 # - name: Custom Link
 #  url: http://example.org
 # url_pdf: uploads/Robust_models.pdf
