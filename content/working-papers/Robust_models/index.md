@@ -38,7 +38,7 @@ links:
 #  url: http://example.org
 url_pdf: uploads/Robust_models.pdf
 links:
-  - name: appendix
+  - name: online appendix
     url: uploads/Online_Appendix_Robust_Misspecified_Models.pdf
     icon_pack: fas
     icon: file-pdf
