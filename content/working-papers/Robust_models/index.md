@@ -36,9 +36,11 @@ featured: false
 links:
 # - name: Custom Link
 #  url: http://example.org
-url_pdf: uploads/Robust_models.pdf
+# url_pdf: uploads/Robust_models.pdf
 links:
-  - name: online appendix
+  - name: working paper
+    url: uploads/Robust_models.pdf
+  - name: Online Appendix
     url: uploads/Online_Appendix_Robust_Misspecified_Models.pdf
 url_code: ''
 url_dataset: ''
