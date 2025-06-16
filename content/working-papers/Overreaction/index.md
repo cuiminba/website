@@ -38,7 +38,9 @@ featured: false
 links:
 # - name: Custom Link
 #  url: http://example.org
-url_pdf: uploads/Overreaction.pdf
+links:
+  - name: working paper
+    url: uploads/Overreaction.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
