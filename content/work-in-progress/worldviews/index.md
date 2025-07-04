@@ -28,7 +28,7 @@ publication_short: ""
 
 
 # Summary. An optional shortened abstract.
-summary: "*Draft Coming Soon* <br> "
+# summary: "*Draft Coming Soon* <br> "
 
 tags:
 - work in progress
