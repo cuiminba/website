@@ -84,9 +84,9 @@ Welcome!
 
 I am an Assistant Professor of Economics at the University of Pittsburgh.
 
-I received my Ph.D. in economics from the University of Pennsylvania. 
+I received my Ph.D. in economics from the University of Pennsylvania in 2023. 
 
-My research interests are in microeconomic theory with a focus on learning, information, behavioral economics, and dynamic games.
+My research interests are in microeconomic theory with a focus on learning, information, and dynamic games, as well as behavioral economics and experiments.
 
 I am honored to be an invited speaker at the [Review of Economic Studies European Tour](https://www.restud.com/past-restud-tour-speakers/), 2023.
 
@@ -94,7 +94,7 @@ I am honored to be an invited speaker at the [Review of Economic Studies Europea
 
 Here is my {{< staticref "uploads/CV_Cuimin Ba.pdf" "newtab">}}CV{{</staticref>}}
 
-Email: bacuimin (at) gmail (dot) com
+Email: bacuimin (at) gmail (dot) com, or cub8 (at) pitt (dot) com
 
 [How to pronounce my name](https://translate.google.com/?sl=auto&tl=zh-CN&text=%E8%90%83%E6%95%8F&op=translate)
 
