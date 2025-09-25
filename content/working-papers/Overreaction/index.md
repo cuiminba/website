@@ -1,5 +1,5 @@
 ---
-title: "Over- and Underreaction to Information"
+title: "Over- and Underreaction to Information: Belief Updating with Cognitive Constraints"
 authors:
 - admin
 - Aislinn Bohren
