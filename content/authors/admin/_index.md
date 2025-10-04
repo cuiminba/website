@@ -94,7 +94,7 @@ I am honored to be an invited speaker at the [Review of Economic Studies Europea
 
 Here is my {{< staticref "uploads/CV_Cuimin Ba.pdf" "newtab">}}CV{{</staticref>}}
 
-Email: bacuimin (at) gmail (dot) com, or cub8 (at) pitt (dot) com
+Email: bacuimin (at) gmail (dot) com, or cub8 (at) pitt (dot) edu
 
 [How to pronounce my name](https://translate.google.com/?sl=auto&tl=zh-CN&text=%E8%90%83%E6%95%8F&op=translate)
 
