@@ -22,8 +22,8 @@ weight: 3
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "Work in Progress"
+publication_short: "Work in Progress"
 
 # abstract: "*Draft Coming Soon* <br>  "
 # This paper develops a model of reputational communication in environments where an agent may receive private benefits for endorsing certain alternatives. These private sponsorships are not observable to consumers, creating incentives to distort communication. While reputational concerns can encourage the agent to endorse honestly when sponsored, they also lead to strategic under-endorsement when no sponsorship is present. In particular, the agent may withhold favorable information to avoid being mistaken for strategic types who over-endorse. As sponsorship opportunities become more frequent, the credibility of endorsements initially decreases and then increases, which may ultimately enhance consumer welfare. Finally, mandatory sponsorship disclosure policies improve consumer welfare as well. This framework applies broadly to settings such as marketing, expert advice, and policy endorsements.
