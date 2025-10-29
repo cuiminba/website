@@ -1,5 +1,5 @@
 # Display name
-title: Aislinn Bohren
+title: J. Aislinn Bohren
 
 superuser: false
 
