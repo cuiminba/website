@@ -15,7 +15,7 @@ header:
   image: ''
 
 cascade:
-  layout: publication
+  type: publication
   show_abstract: true
   
 ---
