@@ -18,6 +18,9 @@ weight: 2
 # 7 = Thesis; 8 = Patent
 publication_types: ["3"]
 
+show_author: true
+show_abstract: true
+
 # Publication name and optional abbreviated publication name.
 publication: "Working Paper"
 publication_short: "Working Paper"
