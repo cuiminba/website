@@ -28,9 +28,7 @@ abstract: "***AEA Papers & Proceedings***, 115: 631–36, 2025 <br>
 We examine how representational and computational complexity interact to influence belief updating. Building on the two-stage belief updating model of Ba, Bohren, and Imas (2024), we show that when no salience cues are present, attentional and processing constraints generate underreaction to information. Moreover, processing constraints generate greater cognitive imprecision in more complex environments and, hence, more underreaction. An experimental study provides evidence supporting this hypothesis. Comparing belief updating in simple and complex environments, we find underreaction in both. Moreover, increased cognitive imprecision in complex environments generates more underreaction. This highlights the interaction between complexity and cognitive constraints in belief formation."
 
 # Summary. An optional shortened abstract.
-summary: "***AEA Papers & Proceedings***, 115: 631–36, 2025 <br>   
-
-We examine how representational and computational complexity interact to influence belief updating. Building on the two-stage belief updating model of Ba, Bohren, and Imas (2024), we show that when no salience cues are present, attentional and processing constraints generate underreaction to information. Moreover, processing constraints generate greater cognitive imprecision in more complex environments and, hence, more underreaction. An experimental study provides evidence supporting this hypothesis. Comparing belief updating in simple and complex environments, we find underreaction in both. Moreover, increased cognitive imprecision in complex environments generates more underreaction. This highlights the interaction between complexity and cognitive constraints in belief formation."
+summary: "***AEA Papers & Proceedings***, 115: 631–36, 2025"
 
 tags:
 - Publications
