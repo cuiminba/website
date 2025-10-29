@@ -2,7 +2,7 @@
 title: "Over- and Underreaction to Information: Belief Updating with Cognitive Constraints"
 authors:
 - admin
-- Aislinn-Bohren
+- AislinnBohren
 - Alex Imas
 date: "2025-08-09T00:00:00Z"
 doi: ""
