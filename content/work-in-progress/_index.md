@@ -10,7 +10,7 @@ cms_exclude: true
 view: 1
 
 cascade:
-  layout: publication
+  type: publication
   show_abstract: true
   
 # Optional header image (relative to `static/media/` folder).
