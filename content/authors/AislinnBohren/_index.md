@@ -6,5 +6,9 @@ social:
   - icon: globe
     icon_pack: fas
     link: https://www.aislinnbohren.com/
+
 ---
+<meta http-equiv="refresh" content="0; url=https://www.aislinnbohren.com/">
+If you are not redirected, click
+<a href="https://www.aislinnbohren.com/">here</a>.
 
