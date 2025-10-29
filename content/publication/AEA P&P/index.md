@@ -2,7 +2,7 @@
 title: "The Role of Representational and Computational Complexity in Belief Formation"
 authors:
 - admin
-- J. Aislinn Bohren
+- Aislinn-Bohren
 - Alex Imas
 author_notes:
 - ""
