@@ -3,7 +3,7 @@ title: "The Role of Representational and Computational Complexity in Belief Form
 authors:
 - admin
 - AislinnBohren
-- Alex Imas
+- AlexImas
 author_notes:
 - ""
 - ""
