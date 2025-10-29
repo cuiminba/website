@@ -42,6 +42,8 @@ sections:
     design:
       columns: '2'
       view: compact
+      show_author: true
+      link_title: false
   - block: collection
     content:
       title: Work in Progress
@@ -56,5 +58,7 @@ sections:
     design:
       columns: '2'
       view: compact
+      show_author: true
+      link_title: false
  
 ---
