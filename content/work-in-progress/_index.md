@@ -9,6 +9,10 @@ cms_exclude: true
 #   4 = Citation
 view: 1
 
+cascade:
+  layout: publication
+  show_abstract: true
+  
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ''
