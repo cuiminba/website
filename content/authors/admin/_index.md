@@ -86,7 +86,7 @@ I am an Assistant Professor of Economics at the University of Pittsburgh.
 
 I received my Ph.D. in economics from the University of Pennsylvania in 2023. 
 
-My research interests are in microeconomic theory with a focus on learning, information, and dynamic games, as well as behavioral economics and experiments.
+My research interests are in microeconomic theory with a focus on learning, information, and dynamic games, as well as in behavioral economics and experiments.
 
 I am honored to be an invited speaker at the [Review of Economic Studies European Tour](https://www.restud.com/past-restud-tour-speakers/), 2023.
 
