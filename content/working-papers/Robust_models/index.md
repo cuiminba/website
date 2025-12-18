@@ -20,12 +20,12 @@ publication_types: ["3"]
 publication: "Working Paper"
 publication_short: "Working Paper"
 
-abstract: "Conditionally accepted at the ***American Economic Review*** <br>  
+abstract: "Accepted at the ***American Economic Review*** <br>  
 
 This paper studies which misspecified models are likely to persist when decision-makers compare them with competing models. The main result characterizes such models based on two features that can be derived from primitives: the model's asymptotic accuracy in predicting the equilibrium distribution of observed outcomes and the “tightness” of the prior around such equilibria. Misspecified models can be robust, persisting against any arbitrary competing model---including the true model---despite decision-makers observing an infinite amount of data. Moreover, simple misspecified models equipped with entrenched priors can be more robust than complex correctly specified models."
 
 # Summary. An optional shortened abstract.
-summary: "Conditionally accepted at the ***American Economic Review***"
+summary: "Accepted at the ***American Economic Review***"
 
 tags:
 - working papers
