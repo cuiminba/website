@@ -37,7 +37,7 @@ featured: false
 # url_pdf: uploads/Robust_models.pdf
 links:
   - name: working paper
-    url: uploads/Robust_models.pdf
+    url: uploads/Robust_Models.pdf
   - name: online appendix
     url: uploads/Online_Appendix_Robust_Misspecified_Models.pdf
 url_code: ''
