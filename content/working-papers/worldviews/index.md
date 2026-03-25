@@ -20,7 +20,7 @@ weight: 3
 publication_types: ["3"]
 layout: publication 
 show_author: true
-show_abstract: true
+show_abstract: false
 
 # Publication name and optional abbreviated publication name.
 publication: "Working Paper"
