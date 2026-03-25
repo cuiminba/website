@@ -19,8 +19,8 @@ weight: 3
 # 7 = Thesis; 8 = Patent
 publication_types: ["3"]
 layout: publication 
-show_author: true
-show_abstract: false
+# show_author: true
+# show_abstract: false
 
 # Publication name and optional abbreviated publication name.
 publication: "Working Paper"
