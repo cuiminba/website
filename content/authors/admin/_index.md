@@ -18,8 +18,8 @@ role: Assistant Professor of Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Pittsburgh
-    url: https://www.econ.pitt.edu/
+  - name: Johns Hopkins University
+    url: https://econ.jhu.edu/directory/cuimin-ba/
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -82,11 +82,11 @@ highlight_name: true
 
 Welcome! 
 
-I am an Assistant Professor of Economics at the University of Pittsburgh. 
-
-**News:** I will be joining Johns Hopkins University as Steven M. Kaye Assistant Professor of Economics in July 2026.
+I am the Steven M. Kaye Assistant Professor of Economics at Johns Hopkins University. 
 
 I received my Ph.D. in economics from the University of Pennsylvania in 2023. 
+
+Prior to joining JHU, I was an assistant professor at the University of Pittsburgh.
 
 My research interests are in microeconomic theory with a focus on learning, information, and dynamic games, as well as in behavioral economics and experiments.
 
@@ -95,7 +95,7 @@ My research interests are in microeconomic theory with a focus on learning, info
 
 Here is my {{< staticref "uploads/CV_Cuimin Ba.pdf" "newtab">}}CV{{</staticref>}}
 
-Email: bacuimin (at) gmail (dot) com, or cub8 (at) pitt (dot) edu
+Email: bacuimin (at) gmail (dot) com, or cba (at) jhu (dot) edu
 
 [How to pronounce my name](https://translate.google.com/?sl=auto&tl=zh-CN&text=%E8%90%83%E6%95%8F&op=translate)
 
