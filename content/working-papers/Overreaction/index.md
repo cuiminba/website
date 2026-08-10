@@ -24,12 +24,12 @@ show_abstract: true
 publication: "Working Paper"
 publication_short: "Working Paper"
 
-abstract: "Revise & resubmit at the ***Quarterly Journal of Economics*** <br>  
+abstract: "Accepted at the ***Quarterly Journal of Economics*** <br>  
 
-This paper explores how cognitive constraints interact with the information environment to determine whether people overreact or underreact to information. In our model of belief updating, limited attention leads people to form a distorted mental model or representation of the information environment, and limited processing capacity generates cognitive imprecision when using this representation to update beliefs. The model predicts overreaction when facing complex environments, noisy or surprising signals, or priors concentrated on moderate states; it predicts underreaction when facing simple environments, precise or confirmatory signals, or priors concentrated on extreme states. A series of pre-registered experiments provide support for these predictions and direct evidence for the proposed cognitive mechanisms. Crucially, the interaction between the cognitive constraints generates the observed pattern of bias: neither constraint on its own can explain the data. These results connect prior disparate findings on whether underreaction versus overreaction arises."
+This paper examines how cognitive constraints shape whether people overreact or underreact to information. In our model, limited attention distorts how people mentally represent the information environment---generating a misspecified mental model---while limited processing capacity introduces cognitive imprecision when they apply Bayes' rule to their representation. Our framework predicts overreaction in complex environments, to noisy or surprising signals, and under priors concentrated on moderate states, and underreaction in simple environments, to precise or confirmatory signals, and under priors concentrated on extreme states. A preregistered experiment supports these predictions and provides direct evidence for the proposed mechanisms. Crucially, the observed pattern of bias arises from the interaction of the two constraints; neither alone explains the data. These results reconcile disparate prior findings on when overreaction versus underreaction arises."
 
 # Summary. An optional shortened abstract.
-summary: "Revise & resubmit at the ***Quarterly Journal of Economics***"
+summary: "Accepted at the ***Quarterly Journal of Economics***"
 
 tags:
 - working papers
