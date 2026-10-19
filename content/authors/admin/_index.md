@@ -86,8 +86,6 @@ I am the <span style="color: #1565C0;">Steven M. Kaye Assistant Professor of Eco
 
 I received my Ph.D. in economics from the University of Pennsylvania in 2023. 
 
-
-
 My research interests are in microeconomic theory with a focus on learning, information, and dynamic games, as well as in behavioral economics and experiments.
 
 
