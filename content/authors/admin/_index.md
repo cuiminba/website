@@ -82,11 +82,11 @@ highlight_name: true
 
 Welcome! 
 
-I am the Steven M. Kaye Assistant Professor of Economics at Johns Hopkins University. 
+I am the <span style="color: #1565C0;">Steven M. Kaye Assistant Professor of Economics</span> at Johns Hopkins University. 
 
 I received my Ph.D. in economics from the University of Pennsylvania in 2023. 
 
-Prior to joining JHU, I was an assistant professor at the University of Pittsburgh.
+
 
 My research interests are in microeconomic theory with a focus on learning, information, and dynamic games, as well as in behavioral economics and experiments.
 
